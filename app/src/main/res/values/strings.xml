@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmpAssignment</string>
+    <string name="enter_sql_query">Enter SQL Query</string>
+    <string name="submit">Submit</string>
+    <string name="welcome_to_app">WELCOME TO APP</string>
+</resources>
